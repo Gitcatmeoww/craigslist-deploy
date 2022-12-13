@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/craigslist-deploy/static/css/main.44a7d229.css",
+    "main.js": "/craigslist-deploy/static/js/main.59e18755.js",
+    "static/js/787.6d846931.chunk.js": "/craigslist-deploy/static/js/787.6d846931.chunk.js",
+    "index.html": "/craigslist-deploy/index.html",
+    "main.44a7d229.css.map": "/craigslist-deploy/static/css/main.44a7d229.css.map",
+    "main.59e18755.js.map": "/craigslist-deploy/static/js/main.59e18755.js.map",
+    "787.6d846931.chunk.js.map": "/craigslist-deploy/static/js/787.6d846931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a7d229.css",
+    "static/js/main.59e18755.js"
+  ]
+}
